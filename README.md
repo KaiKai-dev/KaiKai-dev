@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I am John Emmanuel Calaycay
+## Web/Software Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
