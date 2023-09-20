@@ -1,29 +1,29 @@
 ### Hello there, I'm John Emmanuel Calaycay
 
 ### Tools and Stacks 
-<p align="center">Web</p>
 <p align="center">
+<p>Web</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vercel,vue,svelte,tailwind,firebase,supabase," />
   </a>
 </p>
 
-<p align="center">Software & Android</p>
 <p align="center">
+<p>Software & Android</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,androidstudio,unity" />
   </a>
 </p>
 
-<p align="center">Blockchain</p>
 <p align="center">
+<p>Blockchain</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity" />
   </a>
 </p>
 
-<p align="center">IDE's</p>
 <p align="center">
+<p>IDE's</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea" />
   </a>
