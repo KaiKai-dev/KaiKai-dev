@@ -4,7 +4,7 @@
 <p align="center">
 <p>Web</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vercel,vue,svelte,tailwind,firebase,supabase," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vercel,svelte,vue,tailwind,firebase,supabase," />
   </a>
 </p>
 
