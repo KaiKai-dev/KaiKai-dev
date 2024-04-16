@@ -1,5 +1,3 @@
-### Hello there, I'm John Emmanuel Calaycay
-
 ### Tools and Stacks 
 <p align="center">
 <p>Web</p>
