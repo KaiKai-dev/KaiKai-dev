@@ -4,14 +4,14 @@
 <p align="center">
 <p>Web</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vercel,svelte,vue,tailwind,firebase,supabase," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vercel,nextjs,svelte,vue,tailwind,firebase,supabase," />
   </a>
 </p>
 
 <p align="center">
 <p>Software & Android</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,androidstudio,xcode,unity" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,androidstudio,unity" />
   </a>
 </p>
 
