@@ -11,7 +11,7 @@
 <p align="center">
 <p>Software & Android</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,androidstudio,unity" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,androidstudio,xcode,unity" />
   </a>
 </p>
 
